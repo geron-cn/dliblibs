@@ -2,4 +2,4 @@
 
 opencv v3.3.1
 dlib
-compile with msvc v140
+compile with msvc v140 x86
